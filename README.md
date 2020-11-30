@@ -1,2 +1,2 @@
 # testeAutomatizadoComJasmine
-Introdução ao jasmine
+Introdução ao Jasmine para teste automatizado
